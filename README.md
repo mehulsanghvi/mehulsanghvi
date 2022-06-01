@@ -8,7 +8,25 @@ I like to play with data, execute analytical experiments, to create a positive i
 Apart from that I am experienced flutter developer too.
 
 ## 🌐Socials
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mehul-sanghvi-218961173/)](https://www.linkedin.com/in/mehul-sanghvi-218961173/)
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mehul-sanghvi-218961173/)](https://www.linkedin.com/in/mehul-sanghvi-218961173/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:mehul11299@outlook.com)](mailto:mehul11299@outlook.com)
+
+
+## ⚡️ A Few Quick Facts
+
+- 🔭 I’m currently learning Optimization Algorithms  
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning 
+  - 🖼 Computer Vision
+  - 🧠 Deep Learning
+- 💬 Ask me about Python, ML, DL, CV
+- 📙 Check out my [Resume](https://github.com/Jainil09/Jainil09/raw/main/Jainil_resume_DS.pdf)
+- 🎉 Fun-Fact: I ❤️ Astrophysics & Planetary Science
+
+
+
 
 
 
