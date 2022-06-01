@@ -8,7 +8,9 @@ I like to play with data, execute analytical experiments, to create a positive i
 Apart from that I am experienced flutter developer too.
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mehul Sanghvi) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mehul-sanghvi-218961173/)](https://www.linkedin.com/in/mehul-sanghvi-218961173/)
+
+
 
 
 # 💻Tech Stack
