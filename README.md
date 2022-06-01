@@ -22,7 +22,7 @@ Apart from that I am experienced flutter developer too.
   - 🖼 Computer Vision
   - 🧠 Deep Learning
 - 💬 Ask me about Python, ML, DL, CV
-- 📙 Check out my [Resume](https://github.com/Jainil09/Jainil09/raw/main/Jainil_resume_DS.pdf)
+- 📙 Check out my [Resume](https://github.com/mehulsanghvi/mehulsanghvi/blob/main/Mehul_Resume%20-%20Data%20Science.pdf) & [CV](https://github.com/mehulsanghvi/mehulsanghvi/blob/main/Mehul_CV%20-%20Data%20Science.pdf)
 - 🎉 Fun-Fact: I ❤️ Astrophysics & Planetary Science
 
 
